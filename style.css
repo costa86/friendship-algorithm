@@ -1,0 +1,22 @@
+body {
+    display: grid;
+    height: 90vh;
+    place-items: center;
+}
+
+button {
+    cursor: pointer;
+    background-color: rgb(221, 5, 5);
+    color: yellow;
+    font-size: 8vh;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+img {
+    min-width: 40vw;
+    height: auto;
+    max-width: 80vw;
+    cursor: pointer;
+}
